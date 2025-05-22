@@ -34,7 +34,7 @@
     "get-port": "^5.1.1",
     "gunzip-maybe": "^1.4.2",
     "node-fetch": "^2.6.7",
-    "openpgp": "^5.10.2",
+    "openpgp": "^5.11.3",
     "promise-toolbox": "^0.20.0",
     "tar": "^6.1.11",
     "wait-port": "^0.2.7"
