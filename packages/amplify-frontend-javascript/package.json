@@ -23,7 +23,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@aws-amplify/amplify-cli-core": "4.4.1",
+    "@aws-amplify/amplify-cli-core": "4.0.1",
     "@babel/core": "^7.23.2",
     "@babel/plugin-transform-modules-commonjs": "7.10.4",
     "chalk": "^4.1.1",
