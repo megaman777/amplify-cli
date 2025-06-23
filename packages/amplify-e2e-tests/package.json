@@ -28,7 +28,7 @@
     "@aws-amplify/amplify-category-auth": "3.7.21",
     "@aws-amplify/amplify-cli-core": "4.4.1",
     "@aws-amplify/amplify-e2e-core": "5.7.4",
-    "@aws-amplify/amplify-opensearch-simulator": "1.7.19",
+    "@aws-amplify/amplify-opensearch-simulator": "1.7.0",
     "@aws-amplify/graphql-transformer-core": "^2.11.1",
     "@aws-sdk/client-appsync": "3.624.0",
     "@aws-sdk/client-dynamodb": "3.624.0",
