@@ -21,7 +21,7 @@
     "setup-profile": "ts-node ./src/setup-profile.ts"
   },
   "dependencies": {
-    "@aws-amplify/amplify-cli-core": "4.4.1",
+    "@aws-amplify/amplify-cli-core": "4.0.1",
     "@aws-amplify/amplify-e2e-core": "5.7.4",
     "@types/ini": "^1.3.30",
     "aws-sdk": "^2.1464.0",
