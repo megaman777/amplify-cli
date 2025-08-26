@@ -31,7 +31,7 @@
     "extract-api": "ts-node ../../scripts/extract-api.ts"
   },
   "dependencies": {
-    "@aws-amplify/amplify-appsync-simulator": "2.16.12",
+    "@aws-amplify/amplify-appsync-simulator": "2.5.0",
     "@aws-amplify/amplify-category-function": "5.7.14",
     "@aws-amplify/amplify-cli-core": "4.4.1",
     "@aws-amplify/amplify-environment-parameters": "1.9.19",
