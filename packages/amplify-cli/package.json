@@ -63,7 +63,7 @@
     "@aws-amplify/amplify-provider-awscloudformation": "8.11.7",
     "@aws-amplify/amplify-python-function-template-provider": "1.4.7",
     "@aws-amplify/amplify-util-import": "2.8.3",
-    "@aws-amplify/amplify-util-mock": "5.10.15",
+    "@aws-amplify/amplify-util-mock": "5.0.0",
     "@aws-amplify/amplify-util-uibuilder": "1.14.19",
     "@aws-cdk/cloudformation-diff": "~2.68.0",
     "amplify-codegen": "^4.10.3",
