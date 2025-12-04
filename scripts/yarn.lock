@@ -106,13 +106,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/parsers@npm:^3.0.0-rc.44":
-  version: 3.0.0-rc.44
-  resolution: "@yarnpkg/parsers@npm:3.0.0-rc.44"
+"@yarnpkg/parsers@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "@yarnpkg/parsers@npm:3.0.3"
   dependencies:
     js-yaml: ^3.10.0
     tslib: ^2.4.0
-  checksum: b4f6ccec3a4e91332c4f5ae76c8949b25a427062ba0e1e1358591f4de839458af8dd471481be4086de960aa83a781ea7b70bcf4f38b1738dcf8b4309fd2ef2a7
+  checksum: 8/d6f78ec15b36732a88aeb090d012756d03a855a301a29f0f4f725ac05186f2d2e26400ea5636016481bdca7d4a013f70d61141bc1add2048cf1c2e5132b9ecf8
   languageName: node
   linkType: hard
 
@@ -508,7 +508,7 @@ __metadata:
     "@types/glob": ^7.2.0
     "@types/js-yaml": ^4.0.4
     "@types/node": ^16.11.5
-    "@yarnpkg/parsers": ^3.0.0-rc.44
+    "@yarnpkg/parsers": ^3.0.3
     axios: ^1.6.7
     execa: ^5.1.1
     fs-extra: ^10.0.0
@@ -613,11 +613,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.9.5#~builtin<compat/typescript>":
   version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10d31da0caa997927eab0167b7ddacb9ac8d3fd87e6584185b14da32b7f033e727309682fc0395021f4ac110860a3be6054e9b039a996a24d282a20bafc599f4
+  checksum: 8/2eee5c37cad4390385db5db5a8e81470e42e8f1401b0358d7390095d6f681b410f2c4a0c496c6ff9ebd775423c7785cdace7bcdad76c7bee283df3d9718c0f20
   languageName: node
   linkType: hard
 
